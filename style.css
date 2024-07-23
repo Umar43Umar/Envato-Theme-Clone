@@ -502,6 +502,7 @@ i{
   .content p{
     font-size: 14px;
     line-height: 32px;
+    width: 350px;
   }
   .video-container .content p{
     font-size: 14px;
